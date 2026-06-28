@@ -6,9 +6,7 @@ A full-stack Task Tracker web application built using the **MERN Stack (MongoDB,
 
 ## 📸 Home Page
 
-> Add your application screenshot below after uploading it to the repository.
-
-![TaskFlow Home](homepage.png)
+![TaskFlow Home](homepage)
 
 ---
 
